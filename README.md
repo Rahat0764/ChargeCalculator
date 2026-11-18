@@ -103,4 +103,6 @@ All rates are defined centrally in [`src/config/rates.ts`](src/config/rates.ts) 
 
 ## Deployment
 
-Configured for zero-config static SPA + PWA deployment on **Vercel** (`vercel.json` + Vite build output in `dist/`).
+- **Live Production URL:** [https://charge-calculator-beta.vercel.app](https://charge-calculator-beta.vercel.app)
+- **GitHub Repository:** [https://github.com/Rahat0764/ChargeCalculator](https://github.com/Rahat0764/ChargeCalculator)
+- Configured for automatic GitHub-to-Vercel static SPA + PWA deployment (`vercel.json` + Vite build output in `dist/`).

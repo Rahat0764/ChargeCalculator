@@ -32,7 +32,7 @@ const ctx = await startVitest(
   {
     watch,
     run: !watch,
-    include: ['src/tests/**/*.test.ts'],
+    include: ['src/tests/**/*.test.{ts,tsx}'],
   },
   isAndroidStorage
     ? {
