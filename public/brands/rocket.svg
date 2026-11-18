@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 40" fill="none" role="img" aria-label="Rocket">
+  <rect width="120" height="40" rx="10" fill="#8C3494"/>
+  <rect x="1" y="1" width="118" height="38" rx="9" stroke="#FFFFFF" stroke-opacity="0.18"/>
+  <circle cx="22" cy="20" r="8" fill="#FFFFFF" fill-opacity="0.16"/>
+  <path d="M19 24.5V15.5H23.2C24.7 15.5 25.6 16.4 25.6 17.8C25.6 19.2 24.7 20.1 23.2 20.1H19M22.5 20.1L25.6 24.5" stroke="#FFFFFF" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="36" y="25.5" fill="#FFFFFF" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="15.5" font-weight="700" letter-spacing="-0.2">Rocket</text>
+</svg>
